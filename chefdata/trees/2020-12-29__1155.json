@@ -1,0 +1,66 @@
+{
+  "id": "803c0ec3a5635e49ac1b76cbc1850497",
+  "name": "Exploratorium",
+  "thumbnail": null,
+  "language": "en",
+  "description": "Testing Exploratorium snacks",
+  "tagline": "",
+  "license": null,
+  "source_domain": "exploratorium.edu",
+  "source_id": "toolkit",
+  "ricecooker_version": "0.6.46",
+  "children": [
+    {
+      "title": "Potatoes!",
+      "language": null,
+      "description": "",
+      "node_id": "2138a7a12c5f5f3ea6ad48235d48ccfd",
+      "content_id": "a27bce8d3d5c5d80a14b35d52aa3e286",
+      "source_domain": "2309751de61e5864b010ed8e9f310139",
+      "source_id": "<potatoes_id>",
+      "author": "",
+      "aggregator": "",
+      "provider": "",
+      "files": [],
+      "tags": [],
+      "kind": "topic",
+      "license": null,
+      "license_description": null,
+      "copyright_holder": "",
+      "questions": [],
+      "extra_fields": "{}",
+      "children": [
+        {
+          "title": "Growing potatoes",
+          "language": "en",
+          "description": "An article about growing potatoes on your rooftop.",
+          "node_id": "25e4341f4a0d52f69ca573ae9a81c02b",
+          "content_id": "7615bbd2d0aa57c1beb7248bacc30f11",
+          "source_domain": "2309751de61e5864b010ed8e9f310139",
+          "source_id": "pubs/mafri-potatoe",
+          "author": "",
+          "aggregator": "",
+          "provider": "",
+          "files": [
+            {
+              "size": 111348,
+              "preset": "document",
+              "filename": "3641693a88b37e8d0484c340a83f9364.pdf",
+              "original_filename": null,
+              "language": "en",
+              "source_url": null
+            }
+          ],
+          "tags": [],
+          "kind": "document",
+          "license": "CC BY",
+          "license_description": null,
+          "copyright_holder": "Exploratorium",
+          "questions": [],
+          "extra_fields": "{}",
+          "role": "learner"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+venv/
+logs/
+
+.ricecookerfilecache/
+.vscode/
+.python-version
