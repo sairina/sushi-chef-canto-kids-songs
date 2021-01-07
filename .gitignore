@@ -1,5 +1,8 @@
 venv/
 logs/
+storage/
+chefdata/
+restore/
 
 .ricecookerfilecache/
 .vscode/
